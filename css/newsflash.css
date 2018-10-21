@@ -1,0 +1,48 @@
+<!--STYLESHEET DBASE VERSION-->
+<!--PJB Style sheet for DBase version of InfoDesign-->
+<!--First init: Oct. 2001-->
+<!--Last mod: Oct 11, 2001-->
+
+A:link {color:#000099}
+A:active{text-decoration:none;color:#000099;background:transparent}
+A:visited{text-decoration:none;color:#006600;background:transparent}
+A:hover{text-decoration:none;color:#000000;background:#ffcc00}
+A:visited.brown{text-decoration:none;color:#FFFFFF;background:transparent;}
+
+p.days
+{margin-left:0mm;margin-right:1mm;margin-top:0mm;margin-bottom:0mm;font-family:verdana, geneva, arial, sans-serif;font-size:10px;color:#888888;background-color:#FFFFFF} 
+
+p.event {margin-left:0mm;margin-top:0mm;margin-bottom:0mm;margin-right:0mm;font-family:verdana, geneva, arial, sans-serif;font-size:10px;color:#000000;background-color:#FFFFFF}
+  
+p.group{margin-left:0.5mm;margin-right:0mm;margin-top:2mm;margin-bottom:0mm;font-weight:bold;font-family:verdana, geneva, arial, sans-serif;font-size:10px;color:#000000;background-color:#FFFFFF}
+
+p.groupitem{margin-left:2mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm;font-family:verdana, geneva, arial, sans-serif;font-size:10px;color:#000000;background-color:#FFFFFF}
+
+p.calmonth{margin-left:1mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm;font-family:verdana, geneva, arial, sans-serif;font-size:10px;color:#000000;background-color:#FFFFFF}
+
+p.category{display:inline;margin-left:0mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm;font-family:verdana, geneva, arial, sans-serif;font-size:11px;color:#726262;background-color:#FFFFFF}
+
+p.subcategory{display:inline;margin-left:0mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm;font-weight:bold;font-family:verdana, geneva, arial,sans-serif;font-size:11px;color:#000000;background-color:#FFFFFF}
+
+p.title{margin-left:5mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm;font-weight:bold;font-family:verdana, geneva, arial, sans-serif;font-size:11px;color:#000000;background-color:#FFFFFF}
+
+p.subtitle{margin-left:5mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm;font-family:verdana, geneva, arial, sans-serif;font-size:11px;color:#000000;background-color:#FFFFFF}
+
+p.author{display:inline;margin-left:5mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm; font-family:verdana, geneva, arial, sans-serif;font-size:11px;color:#000000;background-color:#FFFFFF}
+
+p.affiliation{display:inline;margin-left:0mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm; font-family:verdana, geneva, arial, sans-serif;font-size:11px;color:#000000;background-color:#FFFFFF}
+
+p.date{display:block;margin-left:5mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm;font-family:verdana, geneva, arial, sans-serif;font-size:11px;color:#A19E9E;background-color:#FFFFFF}
+
+p.courtesy{display:inline;margin-left:0mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm;font-family:verdana, geneva, arial,sans-serif;font-size:11px;color:#A19E9E;background-color:#FFFFFF}
+
+
+img{display:inline;margin-left:0mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm}
+
+
+dd {margin-left:1em;font-family:verdana, sans-serif;font-size:11pt}
+  
+ul {font-family:verdana, sans-serif;font-size:11pt}
+  
+li {font-family:verdana, sans-serif;font-size:11pt}
+

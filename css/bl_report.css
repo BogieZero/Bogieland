@@ -1,0 +1,27 @@
+/* Report stylesheet pjb
+LastDelta: Mar.22.02006
+*/
+
+
+body{padding-top:0px; padding-bottom:0px; padding-left:0px; padding-right:0px; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; 
+}
+
+h1{padding-top:48px; padding-bottom:1em; padding-left:16px; padding-right:0px; margin-top:0px; margin-bottom:8px; margin-left:0px; margin-right:0px; color:#FFFFFF; background-color:#00229D; font-size:24px; line-height:0px;font-family:Lucida Grande, Geneva, Arial, Helvetica, Swiss,SunSans-Regular; font-weight:normal;
+}
+
+h2{padding-top:8px; padding-bottom:24px; padding-left:1em; padding-right:0px; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; background-color:#FFFFFF; font-size:1.5em; line-height:0px;font-family:Lucida Grande, Geneva, Arial, Helvetica, Swiss, SunSans-Regular; font-weight:normal; color:#00229D;
+}
+
+h3{padding-top:0px; padding-bottom:0px; padding-left:16px; padding-right:0px; margin-top:8px; margin-bottom:8px; margin-left:0px; margin-right:0px; color:#666666; background-color:#FFFFFF; font-size:1.2em; font-variant:small-caps; line-height:16px;font-family:Lucida Grande, Geneva, Arial, Helvetica, Swiss, SunSans-Regular;
+}
+
+h4{padding-top:0px; padding-bottom:0px; padding-left:16px; padding-right:0px; margin-top:8px; margin-bottom:8px; margin-left:0px; margin-right:0px; background-color:#FFFFFF; font-size:1.1em; font-weight:normal; line-height:16px;font-family:Lucida Grande, Geneva, Arial, Helvetica, Swiss, SunSans-Regular;
+}
+
+p {padding-top:0px; padding-bottom:8px; padding-left:16px; padding-right:16px; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; background-color:#FFFFFF; font-size:1em; line-height:20pt;font-family:Lucida Grande, Geneva, Arial, Helvetica, Swiss, SunSans-Regular; font-weight:normal;}
+
+p.last_delta {font-size:11px;}
+
+ul {padding-top:0px; padding-bottom:0px; padding-left:32px; padding-right:16px; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; background-color:#FFFFFF; font-size:1em; line-height:20pt;font-family:Lucida Grande, Geneva, Arial, Helvetica, Swiss, SunSans-Regular; font-weight:normal; }
+
+li {padding-top:0px; padding-bottom:8px; padding-left:0px; padding-right:0px; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; }

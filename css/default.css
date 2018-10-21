@@ -1,0 +1,63 @@
+A:visited{text-decoration:none;color:#006600;background:transparent}
+A:visited.tab {text-decoration:none;color:#FFFFFF;background:transparent}
+A:hover{text-decoration:none;color:#000000;background:#ffcc00}
+A:hover.tab{text-decoration:none;color:#000000;background:#ffcc00}
+A:visited.brown{text-decoration:none;color:#FFFFFF;background:transparent;}
+
+body { padding-left:0mm; padding-bottom:0mm; padding-top:0mm; padding-right:0mm; margin-left:0mm; margin-bottom:0mm; margin-top:0mm; margin-right:0mm;}
+
+h1 {padding-left:3mm; padding-bottom:3mm; padding-top:6mm; padding-right:0mm; margin-left:0mm; margin-bottom:0mm; margin-top:0mm; margin-right:0mm; font-weight: normal; font-family:verdana, arial, sans-serif; font-size:18pt;color:#090095;background-color:#FFFFFF;}
+
+h1.semtitle {padding-left:3mm; padding-bottom:3mm; padding-top:3mm; padding-right:0mm; margin-left:0mm; margin-bottom:0mm; margin-top:0mm; margin-right:0mm; font-family:verdana, arial, sans-serif; font-weight:normal; font-size:16pt;color:#FFFFFF;background-color:#0078A9;}
+
+h1.semtitle_rev {padding-left:3mm; padding-bottom:3mm; padding-top:3mm; padding-right:0mm; margin-left:0mm; margin-bottom:0mm; margin-top:0mm; margin-right:0mm; font-family:verdana, arial, sans-serif; font-weight:normal; font-size:16pt;color:#FFFFFF;background-color:#E57B10;}
+
+h1.semtitlebottom {padding-left:3mm; padding-bottom:3mm; padding-top:3mm; padding-right:6mm; margin-left:0mm; margin-bottom:0mm; margin-top:0mm; margin-right:0mm; font-family:verdana, arial, sans-serif; font-weight:normal; font-size:8pt;color:#FFFFFF;background-color:#E57B10;}
+
+h1.semtitlebottom_rev {padding-left:3mm; padding-bottom:3mm; padding-top:3mm; padding-right:6mm; margin-left:0mm; margin-bottom:0mm; margin-top:0mm; margin-right:0mm; font-family:verdana, arial, sans-serif; font-weight:normal; font-size:8pt;color:#FFFFFF;background-color:#0078A9;}
+
+h2.subtitle {display:block; padding-left:3mm; padding-bottom:3mm; padding-top:3mm; padding-right:0mm; margin-left:0mm; margin-bottom:0mm; margin-top:0mm; margin-right:0mm; font-family:verdana, arial, sans-serif; font-size:10pt; font-weight:normal; color:#FFFFFF;background-color:#5E9EB7;}
+
+h2.subtitle_rev {display:block; padding-left:3mm; padding-bottom:3mm; padding-top:3mm; padding-right:0mm; margin-left:0mm; margin-bottom:0mm; margin-top:0mm; margin-right:0mm; font-family:verdana, arial, sans-serif; font-size:10pt; font-weight:normal; color:#FFFFFF;background-color:#000066;}
+
+h2.subtitlebottom {display:block; padding-left:3mm; padding-bottom:3mm; padding-top:3mm; padding-right:0mm; margin-left:0mm; margin-bottom:0mm; margin-top:0mm; margin-right:0mm; font-family:verdana, arial, sans-serif; font-size:8pt; font-weight:normal; color:#FFFFFF;background-color:#000066;}
+
+h2.subtitlebottom_rev {display:block; padding-left:3mm; padding-bottom:3mm; padding-top:3mm; padding-right:0mm; margin-left:0mm; margin-bottom:0mm; margin-top:0mm; margin-right:0mm; font-family:verdana, arial, sans-serif; font-size:8pt; font-weight:normal; color:#FFFFFF;background-color:#5E9EB7;}
+
+h1.month{ color:#000000; margin-left:0mm; margin-bottom:0mm; margin-top:0mm; margin-right:0mm; font-family:verdana, arial, sans-serif; font-weight:bold; font-size:11px }
+
+em{
+    font-weight:bold;
+    font-style:normal;
+}
+
+h2{ color:#0000FF; margin-left:3mm; margin-bottom:0mm; margin-top:3mm; margin-right:0mm; font-family:verdana, arial, sans-serif; font-weight:bold; font-size:12px; color:#0078A9;background-color:#FFFFFF; }
+
+p { padding-left:3mm;padding-right:3mm;padding-top:0mm;padding-bottom:3mm; margin-left:0mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm;font-family:verdana, geneva, arial, sans-serif;font-size:11px;color:#000000;background-color:#FFFFFF;}
+
+p.motto { padding-left:3mm;padding-right:3mm;padding-top:3mm;padding-bottom:0mm; margin-left:0mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm;font-family:verdana, geneva, arial, sans-serif;font-size:12px; font-weight:bold;color:#0078A9;background-color:#FFFFFF;}
+
+p.copy { display:block; line-height: 12pt; padding-left:3mm;padding-right:3mm;padding-top:3mm;padding-bottom:3mm; margin-left:0mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm;font-family:verdana, geneva, arial, sans-serif;font-size:11px;color:#000000;background-color:#FFFFFF;}
+
+img.pix {display:inline; padding-left:3mm;padding-right:3mm;padding-top:3mm;padding-bottom:3mm; margin-left:0mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm;}
+
+.optionone {display:inline; border-style:solid; border-top-width: 1mm; padding-left:3mm;padding-right:3mm;padding-top:3mm;padding-bottom:3mm; margin-left:0mm;margin-right:0mm;margin-top:3mm;margin-bottom:3mm; color:#FFFFFF;background-color:#387E29;}
+
+.optionmiddle {display:block; padding-left:3mm;padding-right:3mm;padding-top:3mm;padding-bottom:3mm; margin-left:0mm;margin-right:0mm;margin-top:0mm;margin-bottom:3mm; color:#000000;background-color:#387E29;}
+
+.optionlast {display:inline; padding-left:3mm;padding-right:3mm;padding-top:3mm;padding-bottom:3mm; margin-left:0mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm; color:#000000;background-color:#387E29;}
+
+
+ul { padding-left:6mm;padding-right:3mm;padding-top:0mm;padding-bottom:3mm; margin-left:0mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm;  font-family:verdana, geneva, arial, sans-serif;font-size:11px;color:#000000;background-color:#FFFFFF;}
+
+ul.tabnav { padding-left:3mm;padding-right:0mm;padding-top:0mm;padding-bottom:0mm; margin-left:0mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm;  font-family:verdana, geneva, arial, sans-serif;font-size:11px;color:#000000;background-color:#FFFFFF;}
+
+li { padding-left:3mm; padding-right:0mm;padding-top:3mm;padding-bottom:0mm; margin-left:0mm; margin-right:0mm; margin-top:0mm; margin-bottom:0mm; line-height: 12pt; font-family:verdana, geneva, arial, sans-serif; font-size:11px; color:#000000; background-color:#FFFFFF; display: list-item; list-style-image: url('../images/square.jpg');}
+
+
+li.tab { display:inline; padding-left:3mm; padding-right:3mm;padding-top:3mm;padding-bottom:3mm; margin-left:0mm; margin-right:0mm; margin-top:0mm; margin-bottom:0mm; line-height: 12pt; font-family:verdana, geneva, arial, sans-serif; font-size:11px; color:#FFFFFF; background-color:#000000; }
+
+input { padding-left:0mm; padding-right:0mm;padding-top:0mm;padding-bottom:0mm; margin-left:3mm; margin-right:0mm; margin-top:1mm; margin-bottom:1mm; font-family:verdana, arial, helvetica, sans-serif; font-size:11px; background-color:#6699C}
+
+input.button { padding-left:0mm; padding-right:0mm;padding-top:0mm;padding-bottom:0mm; margin-left:0mm; margin-right:0mm; margin-top:1mm; margin-bottom:1mm; font-family:verdana, arial, helvetica, sans-serif; font-size:11px;}
+

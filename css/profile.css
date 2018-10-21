@@ -1,0 +1,19 @@
+/* BogieLand.profile stylesheet - Aug.31, 2004 */
+
+H2.subtitle{padding-left:8px; padding-right:0px; padding-bottom:8px; padding-top:8px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; font-family:verdana, arial, sans-serif; font-size:11px; color:#006695; background-color:#FFFFFF; font-weight:bold;} 
+
+p.profilepar {padding-left:8px; padding-right:8px; padding-bottom:0px; padding-top:0px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; font-family:verdana, arial, sans-serif; font-size:11px; color:#333333; background-color:#FFFFFF;}
+
+ul.profileul {padding-left:8px; padding-top:0px; padding-bottom:16px; padding-right:0mm; margin-left:0mm; margin-right:0px; margin-top:0mm; margin-bottom:0mm; font-family:verdana, arial, sans-serif; font-size:11px; color:#333333; list-style:none;}
+
+img.peterpix {margin-bottom:8px;}
+
+.details {padding-left:8px; padding-top:0px; padding-bottom:8px; padding-right:0mm; margin-left:0mm; margin-right:0px; margin-top:0mm; margin-bottom:0mm;}
+
+
+img.pdflogo {padding-left:0px; padding-top:0px; padding-bottom:0px; padding-right:0px; margin-left:0px; margin-right:0px; margin-top:0px; margin-bottom:0px; position:absolute;}
+
+
+p.detailspar {position:relative; padding-left:0px; padding-right:0px; padding-bottom:0px; padding-top:0px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; font-family:verdana, arial, sans-serif; font-size:11px; background-color:#FFFFFF;}
+
+p.profilemotto {padding-left:8px; padding-right:8px; padding-bottom:0px; padding-top:0px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; font-family:verdana, arial, sans-serif; font-size:11px; font-style:italic; color:#333333; background-color:#FFFFFF;} 

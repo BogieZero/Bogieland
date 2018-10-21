@@ -1,0 +1,115 @@
+/* BaseStyleSheet of Work@BogieLand - version 003
+Last Delta: Feb.16.2011 - PJB */
+
+A:link {
+	color: #000000;
+	text-decoration: none;
+}
+
+A:active {
+	text-decoration: none;
+	color: #000000;
+	background: transparent;
+}
+
+A:visited {
+	text-decoration: none;
+	color: #6C3A09;
+	background: transparent;
+}
+
+A:hover {
+	text-decoration: underline;
+	color: #00000;
+	background: #FFFFFFF;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	background-color: #FFF;
+}
+
+h1 {
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	padding-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	color: #FFFFFF;
+	background-color: #738FE6;
+	font-size: 1em;
+	font-weight: normal;
+}
+
+h2 {
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	padding-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	color: #000000;
+	background-color: #BFEDFF;
+	font-weight: normal;
+}
+
+.cat {
+	padding-top: 8px;
+	padding-bottom: 0px;
+	padding-left: 8px;
+	padding-right: 8px;
+	margin-top: 0px;
+	margin-bottom: 8px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+p.cat_title {
+	padding-top: 4px;
+	padding-bottom: 4px;
+	padding-left: 8px;
+	padding-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	color: #FFFFFF;
+	background-color: #738FE6;
+	font-weight: normal;
+}
+
+ul.cat_list {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	list-style-type: none;
+}
+
+li.cat_item {
+	border: solid 1px;
+	border-top-color: #BFEDFF;
+	border-bottom-color: #738FE6;
+	border-left-color: #738FE6;
+	border-right-color: #738FE6;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	padding-left: 8px;
+	padding-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	background-color: #BFEDFF;
+	font-weight: normal;
+}

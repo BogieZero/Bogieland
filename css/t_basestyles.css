@@ -1,0 +1,62 @@
+/* BogieLand stylesheet - Aug.31, 2004 */
+
+A:link {text-decoration:underline;}
+A:active{text-decoration:underline; color:#00229D;background:transparent;}
+A:visited{text-decoration:underline; color:#5368A4;background:transparent;}
+A:hover{text-decoration:underline; color:#000000; background:#FFFFFF;}
+
+body {
+	font-size: 100%; font-family: "Trebuchet MS", sans-serif; padding-left:0px; padding-right:0px; padding-bottom:0px; padding-top:0px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px;background:#FFFFFF;}
+
+
+
+
+
+h4 { padding-left:2mm; padding-right:5mm; padding-bottom:3mm; padding-top:1mm; margin-left:0mm; margin-top:0mm; margin-right:0mm; margin-bottom:0mm;color:#3B7E19;}
+
+h2.left { padding-left:8px; padding-right:0px; padding-bottom:4px; padding-top:4px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; color:#FFFFFF; background-color:#5368A4; font-weight:normal; font-size:11px;}
+
+h2.right { padding-left:8px; padding-right:0px; padding-bottom:4px; padding-top:4px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; color:#FFFFFF; background-color:#738FE6; font-weight:normal; font-size:11px;}
+
+
+
+p{ padding-left:8px; padding-right:0px; padding-bottom:8px; padding-top:0px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; color:#333333; line-height:16px;}
+
+p.profilepar{ padding-left:3mm; padding-right:0mm; padding-bottom:3mm; padding-top:3mm; margin-left:0mm; margin-top:0mm; margin-right:0mm; margin-bottom:0mm; color:#000000;}
+
+p.footer{ padding-left:8px; padding-right:0px; padding-bottom:4px; padding-top:4px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0mm; color:#FFFFFF; background-color:#00229D; width:785px;}
+
+p.lead {padding-left:8px; padding-right:0px; padding-bottom:8px; padding-top:8px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; color:#000000; font-weight:bold;}
+
+p.leadinfo {padding-left:8px; padding-right:0px; padding-bottom:8px; padding-top:8px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px;  color:#5368A4; font-weight:bold;}
+
+p.leadinfo_more { padding-left:8px; padding-right:0px; padding-bottom:8px; padding-top:8px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; color:#5368A4; font-weight:bold;}
+
+p.aboutme { padding-left:2mm; padding-right:0em; padding-bottom:1mm; padding-top:1mm; margin-left:0mm; margin-top:0mm; margin-right:0mm; margin-bottom:0mm; color:#333333;}
+
+
+
+ul {padding-left:8px; padding-top:0px; padding-bottom:0px; padding-right:0px; margin-left:0px; margin-right:0px; margin-top:0px; margin-bottom:0px; color:#000000; list-style:none;}
+
+li {padding-left:0mm; padding-right:0em; padding-bottom:8px; padding-top:0mm; margin-left:0mm; margin-top:0mm; margin-bottom:0mm; margin-right:0mm; line-height:16px;} 
+
+
+
+.about {padding-left:0px; padding-right:0px; padding-bottom:0px; padding-top:0px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px;}
+
+img.peterpix {float:left; padding-left:0px; padding-right:0px; padding-bottom:0px; padding-top:0px; margin-left:8px; margin-top:8px; margin-right:8px; margin-bottom:0px;}
+
+p.aboutme_lead {padding-left:8px; padding-right:8px; padding-bottom:0mm; padding-top:0px; margin-left:0px; margin-top:8px; margin-right:0px; margin-bottom:0mm; color:#000000; font-weight:normal; display;inline;}
+
+
+
+.bogieland_header {border:solid 1px red; padding-left:0px; padding-right:0px; padding-bottom:0px; padding-top:0px; margin-left:0px; margin-top:16px; margin-right:0px; margin-bottom:0px;} 
+
+img.bogieland_logo {padding-left:0px; padding-right:0px; padding-bottom:0px; padding-top:0px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px;}
+
+img.bogieland_byline { border:solid 1px green; display:inline; position:relative; padding-left:0px; padding-right:0px; padding-bottom:0px; padding-top:0px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px;}
+
+img.flag {border:solid green 2px; left:-100px; top:5px; position:relative; padding-left:0px; padding-right:0px; padding-bottom:0px; padding-top:0px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px;}
+
+p.lang_switch {padding-left:720px; padding-right:0px; padding-bottom:0px; padding-top:0px; margin-left:0px; margin-top:8px; margin-right:0px; margin-bottom:8px;}
+

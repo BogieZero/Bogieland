@@ -1,0 +1,72 @@
+/* STYLESHEET BogieLand presentation */
+    h2.pres_title { padding-left:1em; padding-right:0em; padding-bottom:1mm; padding-top:0em; margin-left:0em; margin-top:0em; margin-right:0em; margin-bottom:0em; font-size:1em; font-family:verdana, arial, geneva, sans-serif; color:#5368A4; font-weight:bold;}
+
+    h2.pres_subtitle { padding-left:1em; padding-right:0em; padding-bottom:1mm; padding-top:1em; margin-left:0em; margin-top:0em; margin-right:0em; margin-bottom:0em; font-size:0.85em; font-family:verdana, arial, geneva, sans-serif; color:#000000; font-weight:bold;}
+
+p.addition {padding-left:1em; padding-right:0em; padding-bottom:1mm; padding-top:1em; margin-left:0em; margin-top:0em; margin-right:0em; margin-bottom:1em; font-size:0.8em; font-family:verdana, arial, geneva, sans-serif; color:#000000; font-weight:normal;}
+
+p.lead { padding-left:1em; padding-right:1em; padding-bottom:1em; padding-top:0em; margin-left:0em; margin-top:0em; margin-right:1em; margin-bottom:0em; font-family:verdana, arial, geneva, sans-serif; font-size:0.75em; font-weight:bold; color:#333333; line-height:2em;}
+
+h3.section {padding-left:1em; padding-right:1em; padding-bottom:0.5em; padding-top:1em; margin-left:0em; margin-top:0em; margin-right:0em; margin-bottom:0em; font-family:verdana, arial, geneva, sans-serif; font-size:0.8em; font-weight:bold; color:#333333;
+}
+
+
+
+h4.pars{padding-left:1em; padding-right:0px; padding-bottom:0px; padding-top:1em; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; font-family:verdana, arial, sans-serif; font-size:0.8em; color:#5368A4; font-weight:bold;
+}
+
+
+
+p.copy_1{padding-left:1em; padding-right:1em; padding-bottom:1em; padding-top:0em; margin-left:0em; margin-top:0em; margin-right:1em; margin-bottom:0em; font-family:verdana, arial, geneva, sans-serif; font-size:0.75em; color:#333333; line-height:2em;
+}
+
+p.copy { padding-left:1em; padding-right:1em; padding-bottom:1em; padding-top:0em; margin-left:0em; margin-top:0em; margin-right:1em; margin-bottom:0em; font-family:verdana, arial, geneva, sans-serif; font-size:0.75em; color:#333333; line-height:2em;
+}
+
+img.cover{padding-left:1em; padding-right:1em; padding-bottom:1em; padding-top:0em; margin-left:0em; margin-top:0em; margin-right:1em; margin-bottom:0em; 
+}
+
+
+
+
+
+    h1.faqtitle { padding-left:3mm; padding-right:3mm; padding-bottom:1mm; padding-top:3mm; margin-left:0em; margin-top:0em; margin-right:0em; margin-bottom:0em; font-family:verdana, arial, geneva, sans-serif; font-size:16px; color:#006695;}
+
+    h2.faqcat { padding-left:16px; padding-right:0em; padding-bottom:1mm; padding-top:1em; margin-left:0em; margin-top:0em; margin-right:0em; margin-bottom:0em; font-family:verdana, arial, geneva, sans-serif; font-size:12px; color:#000000; font-weight:bold;}
+
+    p.author{ padding-left:3mm; padding-right:3mm; padding-bottom:1mm; padding-top:0em; margin-left:0em; margin-top:0em; margin-right:0em; margin-bottom:0em; font-family:verdana, arial, geneva, sans-serif; font-size:12px; color:#000000; font-weight: bold;}
+
+    p.faqintro { padding-left:1em; padding-right:3mm; padding-bottom:3mm; padding-top:3mm; margin-left:0em; margin-top:0em; margin-right:0em; margin-bottom:0em; font-family:verdana, arial, geneva, sans-serif; font-size:11px; color:#000000; font-weight: bold;}
+
+    p.postpar { padding-left:3mm; padding-right:3mm; padding-bottom:1mm; padding-top:4mm; margin-left:0em; margin-top:0em; margin-right:0em; margin-bottom:0em; font-family:verdana, arial, geneva, sans-serif; font-size:11px; color:#000000;}
+
+.glossary {padding-left:0px; padding-right:0px; padding-bottom:1em; padding-top:1em; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; }
+
+    p.faq_q { padding-left:1em; padding-right:0px; padding-bottom:0px; padding-top:1em; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; font-family:verdana, arial, sans-serif; font-size:11px; color:#5368A4; font-weight:bold;}
+
+    p.faq_a { padding-left:1em; padding-right:16px; padding-bottom:1em; padding-top:0em; margin-left:0em; margin-top:0em; margin-right:16px; margin-bottom:0em; font-family:verdana, arial, geneva, sans-serif; font-size:11px; color:#333333; line-height:16px;}
+
+    p.glos_entry_caption { display:block; padding-left:24px; padding-right:0px; padding-bottom:3em; padding-top:0px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; font-family:verdana, arial, sans-serif; font-size:11px; color:#333333; text-indent:-16px;}
+
+
+    p.glos_entry{ display:block; padding-left:24px; padding-right:0px; padding-bottom:1em; padding-top:0px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; font-family:verdana, arial, sans-serif; font-size:11px; color:#333333; text-indent:-16px;}
+
+    p.postright { padding-left:3mm; padding-right:0em; padding-bottom:1mm; padding-top:3mm; margin-left:0em; margin-top:0em; margin-right:0em; margin-bottom:0em; font-family:verdana, arial, geneva, sans-serif; font-size:12px; color:#000000;}
+
+ol {padding-left:0px; padding-right:0px; padding-bottom:0px; padding-top:0px; margin-left:24px; margin-top:0px; margin-right:16px; margin-bottom:0px;color:#333333;}
+
+
+    ul.questions { padding-left:1em; padding-right:0em; padding-bottom:0px; padding-top:0px; margin-left:0em; margin-top:1em; margin-right:0em; margin-bottom:16px; display:list-item;}
+
+    li.question { font-family:verdana, arial, geneva, sans-serif; font-size:11px; color:#000000; list-style-type:none; list-style-image:none;}
+
+    ul.refs { padding-left:1em; padding-right:0px; padding-bottom:0px; padding-top:1em; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:1em;}
+
+    li.ref { font-family:verdana, arial, sans-serif; font-size:11px; color:#000000; list-style-type:none; list-style-image:none;}
+
+img.right_img {padding-left:0px; padding-right:0px; padding-bottom:0px; padding-top:0px; margin-left:1em; margin-top:0px; margin-right:0px; margin-bottom:0px;}
+
+
+
+
+

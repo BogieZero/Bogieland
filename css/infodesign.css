@@ -1,0 +1,177 @@
+/* Stylesheet for the InfoDesign Website
+Developed by BogieZero
+Version 0.01b
+*/
+
+a:link {color:#000099}
+a:visited {color:#009933}
+a:active {color:#000099}
+a:hover {color:#CC0033}
+  
+  
+H1.doctitle{
+        display:block;
+        letter-spacing:2pt;
+        text-align:right;
+        font-size:26pt;
+        font-family: Arial,sans-serif;
+        color:#FFFFFF;
+        background-color:#003366;
+        text-indent:0mm;
+        padding-top:5mm;
+        padding-right: 2mm;
+        padding-left:0mm;
+        padding-bottom:1mm;
+        margin-left: 0em;
+        margin-top: 0em;
+        margin-right: 0em;
+        margin-bottom:0mm
+        }
+H1.subdoctitle{
+        display:block;
+        font-size:18pt;
+        font-family: Arial,sans-serif;
+        color:#FFFFFF;
+        background-color:#000000;
+        text-indent:0mm;
+        text-align:right;
+        padding-top:1mm;
+        padding-right: 2mm;
+        padding-left:2mm;
+        padding-bottom:1mm;
+        margin-left: 0em;
+        margin-top: 0em;
+        margin-right: 0em;
+        margin-bottom:0em
+        }
+  
+  
+  h2{
+  color:#000099;
+  margin-top:0em;
+  margin-bottom:0em;
+   margin-left:0mm;
+   margin-bottom:0mm;
+   padding-top:1em;
+   padding-left:2mm;
+   padding-right:0em;
+   padding-bottom:0mm;
+    font-family:verdana, arial, sans-serif;
+    font-size:16pt
+  }
+  
+  
+  h2.events{
+  color:white;
+  margin-top:0em;
+  margin-bottom:0em;
+   margin-left:1mm;
+   margin-bottom:0mm;
+   padding-top:0em;
+   padding-left:0em;
+   padding-right:0em;
+   padding-bottom:0mm;
+    font-family:arial, sans-sherif;
+    font-size:13pt
+  }
+  
+  
+h3{
+    display:block;
+    color:#990000;
+  margin-top:0em;
+  margin-bottom:0em;
+   margin-left:0mm;
+   margin-bottom:0mm;
+   padding-top:1em;
+   padding-left:2mm;
+   padding-right:0em;
+   padding-bottom:0mm;
+    font-family:verdana, arial, geneva, sans-serif;
+    font-size:14px
+    }
+      
+h4{
+  display:block;
+  color:#000099;
+  margin-top:0em;
+  margin-bottom:0em;
+   margin-left:0mm;
+   margin-bottom:0mm;
+   padding-top:1em;
+   padding-left:2mm;
+   padding-right:0em;
+   padding-bottom:0mm;
+  font-family:verdana, arial, geneva, sans-serif;
+  font-size:12px
+  }
+
+P {
+    display:block;
+    line-height: 18px;
+    padding-left:2mm;
+    padding-right:5em;
+    padding-bottom:2mm;
+    padding-top:1em;
+    margin-top:0em;
+    margin-left:2mm;
+    margin-right:0em;
+    margin-bottom:0em;
+    font-family:verdana, geneva, arial, sans-serif;
+    font-size:15px
+}  
+  
+P.footer {
+    display:block;
+    padding-left:2mm;
+    padding-right:5em;
+    padding-bottom:0em;
+    padding-top:1em;
+    margin-top:0em;
+    margin-left:0em;
+    margin-right:0em;
+    margin-bottom:0em;
+    font-family:verdana, geneva, arial, sans-serif;
+    font-size:10px
+}
+  
+P.topnav {
+    display:block;
+    padding-left:2mm;
+    padding-right:5em;
+    padding-bottom:0em;
+    padding-top:1em;
+    margin-top:0em;
+    margin-left:0em;
+    margin-right:0em;
+    margin-bottom:0em;
+    font-family:verdana, geneva, arial, sans-serif;
+    font-size:11px
+}
+  
+dl {
+  display:block;
+    padding-left:3em;
+    padding-right:5em;
+    padding-bottom:0em;
+    padding-top:0em;
+    margin-top:0em;
+    margin-left:0em;
+    margin-right:0em;
+    margin-bottom:0em;
+    font-family:verdana, geneva, arial, sans-serif;
+    font-size:11px
+}
+ul {
+
+    padding-left:3em;
+    padding-right:5em;
+    padding-bottom:0em;
+    padding-top:0em;
+    margin-top:0em;
+    margin-left:0em;
+    margin-right:0em;
+    margin-bottom:0em;
+    font-family:verdana, geneva, arial, sans-serif;
+    font-size:11px
+}

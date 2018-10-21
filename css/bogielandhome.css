@@ -1,0 +1,165 @@
+
+A:link, A:visited, A:active { text-decoration: none; font-weight: bold }
+
+P.more {
+        font-size:12pt;
+        font-family: Verdana, Geneva, Arial, sans-serif;
+        font-style:bold;
+        color:blue;
+        text-indent:0mm;
+        line-height:normal;
+        margin-left: 2mm;
+        margin-top: 2mm;
+        margin-right: 2mm; 
+        margin-bottom: 3mm
+        }
+
+P.abstracttxt {
+        font-size:10pt;
+        font-family: Verdana, Geneva, Arial, sans-serif;
+        font-style:bold;
+        text-indent:5mm;
+        line-height:11pt;
+        margin-left: 2mm;
+        margin-top: 2mm;
+        margin-right: 2mm; 
+        margin-bottom: 3mm
+        }
+
+P.disclosure {
+        font-size:11px;
+        font-family:  Verdana, Geneva, Arial, sans-serif;
+        font-style:bold;
+        text-indent:0mm;
+        line-height:normal;
+        margin-left: 0mm;
+        margin-top: 2mm;
+        margin-right: 0mm; 
+        margin-bottom: 3mm
+        }
+P.label {
+        font-size:10pt;
+        font-family: Verdana, Geneva, Arial, sans-serif;
+        font-weight:bold;
+        text-indent:0mm;
+        line-height:normal;
+        margin-left: 0mm;
+        margin-top: 0mm;
+        margin-right: 0mm; 
+        margin-bottom: 0mm
+        }
+P.footer {
+        font-size:10pt;
+        font-family: Verdana, Geneva, Arial, sans-serif;
+        font-style:small-caps;
+        text-indent:0mm;
+        line-height:normal;
+        margin-left: 2mm;
+        margin-top: 5mm;
+        margin-right: 0mm; 
+        margin-bottom: 5mm
+        }
+
+P.topmessage {
+        display:block;
+        font-size:11px;
+        font-family:Verdana, Geneva, Arial, sans-serif;
+        text-indent:0mm;
+        color:black;
+        line-height:13pt;
+        margin-left: 5mm;
+        margin-top:0mm;
+        margin-right: 5mm; 
+        margin-bottom: 0mm
+        }
+
+P {
+        display:block;
+        font-size:11px;
+        font-family:Verdana, Geneva, Arial, sans-serif;
+        text-indent:0mm;
+        color:black;
+        line-height:13pt;
+        
+        margin-left: 5mm;
+        margin-top: 5mm;
+        margin-right: 5mm; 
+        margin-bottom: 5mm
+        }
+H1 {
+        display:block;
+        font-family: Verdana, Geneva, Arial, sans-serif;
+        font-size: 22pt;
+        margin-top: 0mm;
+        margin-bottom: 0mm;                         
+        margin-left:0mm;
+        margin-right:0mm;
+        padding-top: 0mm;
+        padding-bottom: 0mm;                         
+        padding-left:0mm;
+        padding-right:0mm;
+        }
+H2 {font-family: Verdana, Geneva, Arial, sans-serif;
+        font-size: 10pt;
+        font-weight: bold;
+        margin-top:0mm; 
+        margin-bottom:0mm;
+        margin-left:0mm;
+        margin-right:0mm
+        }
+OL {
+        list-style-type:upper-alpha;
+        font-size:14pt;
+        font-family: Verdana, Geneva, Arial, sans-serif;
+        margin-top: 2mm;
+        margin-left: 0mm;
+        margin-right: 10mm;
+        list-style-position: inside
+        }
+UL {
+        list-style-type:upper-alpha;
+        font-size:10pt;
+        font-family: Verdana, Geneva, Arial, sans-serif;
+        margin-top: 0mm;
+        margin-left: 0mm;
+        margin-right: 0mm;
+        list-style-position: inside
+        }
+
+LI {
+        list-style-type:decimal;
+        font-size:10pt;
+        font-family: Verdana, Geneva, Arial, sans-serif;
+        margin-top: 0mm;
+        margin-left: 0mm;
+        margin-right: 0mm;
+        list-style-position: inside
+        }
+
+
+DL {
+        list-style-type:upper-alpha;
+        font-size:10pt;
+        font-family: Verdana, Geneva, Arial, sans-serif;
+        margin-top: -4mm;
+        margin-left: 0mm;
+        margin-right: 0mm;
+        margin-bottom:0mm;
+        list-style-position: outside
+        }
+
+DD {
+        font-size:10pt;
+        font-family: Verdana, Geneva, Arial, sans-serif;
+        margin-top: 0mm;
+        margin-left: 0mm;
+        margin-right: 0mm;
+        margin-bottom:0mm;
+        }
+BODY {
+
+        margin-top: 0mm;
+        margin-left: 2mm;
+        margin-right: 3mm;
+        margin-bottom:0mm;
+        } 

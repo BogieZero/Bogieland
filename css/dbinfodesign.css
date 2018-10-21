@@ -1,0 +1,160 @@
+<!--STYLESHEET DBASE VERSION-->
+<!--PJB Style sheet for DBase version of InfoDesign-->
+<!--First init: Sept. 2001-->
+<!--Last mod: Nov. 2001-->
+
+A:link {color:#000099;text-decoration:none}
+A:active{text-decoration:none;color:#000099;background:transparent}
+A:visited{text-decoration:none;color:#006600;background:transparent}
+A:hover{text-decoration:none;color:#000000;background:#ffcc00}
+A:visited.brown{text-decoration:none;color:#FFFFFF;background:transparent;}
+
+h1{color:#0000FF; margin-left:3mm; margin-bottom:0mm; margin-top:5mm; margin-right:0mm; font-family:verdana, arial, sans-serif; font-size:18pt}
+
+
+h1.month{
+	color:#000000;
+	margin-left:0mm;
+	margin-bottom:0mm;
+	margin-top:0mm;
+	margin-right:0mm;
+	font-family:verdana, arial, sans-serif;
+	font-weight:bold;
+	font-size:11px
+  }
+
+h2{
+	color:#0000FF;
+	margin-left:3mm;
+	margin-bottom:0mm;
+	margin-top:3mm;
+	margin-right:0mm;
+	font-family:verdana, arial, sans-serif;
+	font-size:24px
+  }
+  
+h2.events{
+  color:#990000;
+   margin-left:0mm;
+   margin-bottom:0mm;
+   margin-rigth:0mm;
+   margin-top:5mm;
+   font-family:courier, serif;
+   font-size:12px;
+   letter-spacing:0.1em
+  }
+  
+h2.tabletitle{
+  color:#FFFFFF;
+  padding-left:5px;
+padding-right:5px;
+padding-bottom:5px;
+padding-top:0px;
+background-color:#006695;
+   margin-left:0mm;
+   margin-bottom:1mm;
+   margin-rigth:0mm;
+   margin-top:2mm;
+   font-family: verdana,geneva,arial,sans-serif;
+   font-size:14px;
+  }
+  
+h3{
+  color:#FFFFFF;
+    margin-left:2mm;
+    margin-top:0mm;
+    margin-bottom:0mm;
+    margin-right:0mm;
+    font-family: verdana,geneva,arial,sans-serif;
+    font-weight:bold;
+    font-size:11px
+  }
+  
+h3.topics{
+  color:#FFFFFF;
+    margin-left:1mm;
+    margin-top:0.5mm;
+    margin-bottom:0.5mm;
+    margin-right:0mm;
+    font-family:Geneva,Arial,Helvetica,Swiss,SunSans-Regular;
+    font-weight:bold;
+    font-size:18px
+  }
+
+h3.currentevents{color:#FFFFFF;margin-left:1mm;margin-top:0.5mm;margin-bottom:0mm;margin-right:0mm;font-family:verdana, arial, geneva, helvetica,sans-serif;font-size:14pt}
+
+h3.month{color:#000000;margin-left:0mm;margin-top:2mm;margin-bottom:0mm;margin-right:0mm;font-family: verdana,geneva,arial,sans-serif;font-size:11px}
+  
+h4{color:#000000;margin-left:5mm;margin-bottom:1mm;margin-top:1mm;font-family:verdana, arial,geneva,sans-serif;font-size:11px;font-weight:normal}
+  
+h4.year{color:#000000;margin-left:1mm;margin-right:0mm;margin-bottom:0mm;margin-top:1mm;font-family:verdana, arial, geneva, helvetica,sans-serif;font-size:11px;font-weight:bold;background-color:#CCCCCC}
+
+p {display:block; line-height: 18px; padding-left:2mm; padding-right:5em; padding-bottom:2mm; padding-top:1em; margin-top:0em; margin-left:0em; margin-right:0em; margin-bottom:0em; font-family:verdana, geneva, arial, sans-serif; font-size:11px}
+
+p.advancedsearch{margin-left:0mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm;font-family:verdana, geneva, arial, sans-serif;font-size:11px;color:#888888;background-color:#7294B4}
+
+p.days{margin-left:1mm;margin-right:0mm;margin-top:1mm;margin-bottom:0mm;font-family:verdana, arial, geneva, helvetica,sans-serif;font-size:11px;color:#726262;background-color:#FFFFFF} 
+
+p.event{margin-left:0mm;margin-top:1mm;margin-bottom:2mm;margin-right:0mm;font-family: verdana, arial, geneva, helvetica,sans-serif;font-size:11px;color:#000000;background-color:#FFFFFF}
+  
+p.group{margin-left:2mm;margin-right:2mm;margin-top:2mm;margin-bottom:0mm;font-weight:bold;font-family: verdana, arial, geneva, helvetica,sans-serif;font-size:11px;color:#000000;background-color:#CCCCCC}
+
+p.groupitem{margin-left:2mm;margin-right:2mm;margin-top:0mm;margin-bottom:0mm;font-family: verdana, arial, geneva, helvetica,sans-serif;font-size:11px;color:#000000;background-color:#CCCCCC}
+
+p.calmonth{margin-left:0mm;margin-right:2mm;margin-top:1mm;margin-bottom:0mm;text-align:right;font-family:verdana, arial, geneva, helvetica,sans-serif;font-size:11px;color:#000000;background-color:#CCCCCC}
+
+p.category{display:inline;margin-left:0mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm;font-family: verdana, arial, geneva, helvetica,sans-serif;font-size:11px;color:#A19E9E;background-color:#FFFFFF}
+
+p.subcategory{display:inline;margin-left:0mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm;font-weight:bold;font-family: verdana, arial, geneva, helvetica,sans-serif;font-size:11px;color:#000000;background-color:#FFFFFF}
+
+p.subscribe{margin-left:0mm;margin-right:1mm;margin-top:0mm;margin-bottom:1mm;font-family: verdana, arial, geneva, helvetica,sans-serif;font-size:11px;color:#000000;background-color:#7294B4}
+
+p.searchitem{margin-left:0mm;margin-right:0mm;margin-top:1mm;margin-bottom:1mm;font-family: verdana, arial, geneva, helvetica,sans-serif;font-size:11px;color:#000000;background-color:#FAF204}
+
+p.title{display:inline;padding-left:0px;padding-right:0px;padding-bottom:0px;padding-top:0px;margin-left:0mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm;font-weight:bold;font-family: verdana, arial, geneva, helvetica,sans-serif;font-size:11px;color:#000000;background-color:#FFFFFF}
+
+p.subtitle{display:block;margin-left:0mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm;font-family: verdana, arial, geneva, helvetica,sans-serif;font-size:11px;color:#000000;background-color:#FFFFFF}
+
+p.author{display:inline;margin-left:0mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm;font-family: verdana, arial, geneva, helvetica,sans-serif;font-size:11px;color:#000000;background-color:#FFFFFF}
+
+p.nextprev{margin-left:3mm;margin-right:0mm;margin-top:0.5mm;margin-bottom:2mm;font-family: verdana, arial, geneva, helvetica,sans-serif;font-size:11px;font-weight:bold;color:#000000;background-color:#FFFFFF}
+
+p.affiliation {display:inline; margin-left:0mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm;text-indent:50%;font-family: verdana, arial, geneva, helvetica,sans-serif;font-size:11px;color:#000000;background-color:#FFFFFF}
+
+p.date{display:inline;margin-left:0mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm;font-family: verdana, arial, geneva, helvetica,sans-serif;font-size:11px;color:#000000;background-color:#FFFFFF}
+
+p.courtesy{display:inline;padding-left:0mm;padding-right:0mm;padding-bottom:3mm;padding-top:0mm;margin-left:0mm;margin-right:0mm;margin-top:0mm;margin-bottom:0mm;font-family: verdana, arial, geneva, helvetica,sans-serif;font-style:italic;font-size:11px;color:#000000;background-color:#FFFFFF}
+
+p.label{display:block;margin-left:0mm;margin-right:1mm;margin-top:0mm;margin-bottom:0mm;font-family: verdana, arial, geneva, helvetica,sans-serif; font-weight:bold;font-size:11px;color:#3B7E19;background-color:#84A265}
+
+p.prose{margin-left:2mm;margin-right:2mm;margin-top:0mm;margin-bottom:1mm;font-family:verdana, geneva, arial, sans-serif;font-size:11px;color:#000000;line-height: 18px;}
+
+p.footer{margin-left:2mm;margin-right:2mm;margin-top:0mm;margin-bottom:1mm;font-family:verdana, geneva, arial, sans-serif;font-weight:bold; font-size:11px;color:#FFFFFF;line-height: 18px;}
+
+.eventcalender{
+border-left:2px solid #999;
+border-right:1px solid #999;
+border-top:1px solid #999;
+border-bottom:1px solid #999;
+padding-left:5px;
+padding-right:5px;
+padding-bottom:5px;
+padding-top:0px;
+background-color:#F7F7F7;
+font-family:verdana, arial, sans-serif;
+font-size:10px;
+color:#333;
+line-height:12px;
+width:190px;
+}
+
+
+
+img {display:inline}
+
+
+dd {margin-left:1em;font-family:verdana, sans-serif;font-size:11pt}
+  
+ul {font-family:verdana, sans-serif;font-size:11pt}
+  
+li {font-family:verdana, sans-serif;font-size:11pt} 

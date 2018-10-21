@@ -1,0 +1,41 @@
+    h1.faqtitle { padding-left:3mm; padding-right:3mm; padding-bottom:1mm; padding-top:3mm; margin-left:0mm; margin-top:0mm; margin-right:0mm; margin-bottom:0mm; font-family:verdana, arial, geneva, sans-serif; font-size:16px; color:#006695;}
+
+    h2.faqcat { padding-left:16px; padding-right:0mm; padding-bottom:1mm; padding-top:8px; margin-left:0mm; margin-top:0mm; margin-right:0mm; margin-bottom:0mm; font-family:verdana, arial, geneva, sans-serif; font-size:12px; color:#000000; font-weight:bold;}
+
+    p.author{ padding-left:3mm; padding-right:3mm; padding-bottom:1mm; padding-top:0mm; margin-left:0mm; margin-top:0mm; margin-right:0mm; margin-bottom:0mm; font-family:verdana, arial, geneva, sans-serif; font-size:12px; color:#000000; font-weight: bold;}
+
+    p.faqintro { padding-left:8px; padding-right:3mm; padding-bottom:3mm; padding-top:3mm; margin-left:0mm; margin-top:0mm; margin-right:0mm; margin-bottom:0mm; font-family:verdana, arial, geneva, sans-serif; font-size:11px; color:#000000; font-weight: bold;}
+
+    p.postpar { padding-left:3mm; padding-right:3mm; padding-bottom:1mm; padding-top:4mm; margin-left:0mm; margin-top:0mm; margin-right:0mm; margin-bottom:0mm; font-family:verdana, arial, geneva, sans-serif; font-size:11px; color:#000000;}
+
+.glossary {padding-left:0px; padding-right:0px; padding-bottom:8px; padding-top:8px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; }
+
+    p.faq_q { padding-left:8px; padding-right:0px; padding-bottom:0px; padding-top:8px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; font-family:verdana, arial, sans-serif; font-size:11px; color:#5368A4; font-weight:bold;}
+
+    p.faq_a { padding-left:8px; padding-right:16px; padding-bottom:8px; padding-top:0mm; margin-left:0mm; margin-top:0mm; margin-right:16px; margin-bottom:0mm; font-family:verdana, arial, geneva, sans-serif; font-size:11px; color:#333333; line-height:16px;}
+
+p.lead { padding-left:8px; padding-right:16px; padding-bottom:8px; padding-top:0mm; margin-left:0mm; margin-top:0mm; margin-right:16px; margin-bottom:0mm; font-family:verdana, arial, geneva, sans-serif; font-size:11px; font-weight:bold; color:#333333; line-height:16px;}
+
+
+
+    p.glos_entry{ display:block; padding-left:24px; padding-right:0px; padding-bottom:8px; padding-top:0px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; font-family:verdana, arial, sans-serif; font-size:11px; color:#333333; text-indent:-16px;}
+
+    p.postright { padding-left:3mm; padding-right:0mm; padding-bottom:1mm; padding-top:3mm; margin-left:0mm; margin-top:0mm; margin-right:0mm; margin-bottom:0mm; font-family:verdana, arial, geneva, sans-serif; font-size:12px; color:#000000;}
+
+ol {padding-left:0px; padding-right:0px; padding-bottom:0px; padding-top:0px; margin-left:24px; margin-top:0px; margin-right:16px; margin-bottom:0px;color:#333333;}
+
+
+    ul.questions { padding-left:8px; padding-right:0mm; padding-bottom:0px; padding-top:0px; margin-left:0mm; margin-top:8px; margin-right:0mm; margin-bottom:16px; display:list-item;}
+
+    li.question { font-family:verdana, arial, geneva, sans-serif; font-size:11px; color:#000000; list-style-type:none; list-style-image:none;}
+
+    ul.refs { padding-left:8px; padding-right:0px; padding-bottom:0px; padding-top:8px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:8px;}
+
+    li.ref { font-family:verdana, arial, sans-serif; font-size:11px; color:#000000; list-style-type:none; list-style-image:none;}
+
+img.right_img {padding-left:0px; padding-right:0px; padding-bottom:0px; padding-top:0px; margin-left:8px; margin-top:0px; margin-right:0px; margin-bottom:0px;}
+
+
+
+
+

@@ -1,0 +1,35 @@
+
+
+
+
+h1.bizcasetitle {padding-left:56px; padding-right:16px; padding-bottom:8px; padding-top:8px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; font-family:verdana, arial, sans-serif; font-size:11px; color:#006695; font-weight:bold;}
+
+h2.bizcasesubtitle { padding-left:16px; padding-right:0px; padding-bottom:8px; padding-top:8px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; font-family:verdana, arial, sans-serif; font-size:11px; color:#333333; font-weight:normal; font-style:italic;}
+
+    p.bizcaseleader { padding-left:8px; padding-right:8px; padding-bottom:8px; padding-top:0px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; font-family:verdana, arial, sans-serif; font-size:11px; color:#006695; font-weight:normal;}
+
+.bizcaseleader { padding-left:0px; padding-right:0px; padding-bottom:0px; padding-top:8px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; font-family:verdana, arial, sans-serif; font-size:11px; color:#5368A4; font-weight:normal;}
+
+
+    p.bizcasepar { padding-left:16px; padding-right:0px; padding-bottom:8px; padding-top:0px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; font-family:verdana, arial, sans-serif; font-size:11px; color:#333333; font-weight:normal; line-height:16px;}
+
+    p.bizcaseright1 { border:solid 1px; border-top-color:black; border-bottom-color:white; border-left-color:white; border-right-color:white; padding-left:0px; padding-right:8px; padding-bottom:0px; padding-top:8px; margin-left:8px; margin-top:0px; margin-right:8px; margin-bottom:0px; font-family:verdana, arial, sans-serif; font-size:11px; color:#333333; font-weight:normal;}
+
+    p.bizcaseright2 { padding-left:8px; padding-right:0px; padding-bottom:8px; padding-top:8px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; font-family:verdana, arial, sans-serif; font-size:11px; color:#333333; font-weight:normal;}
+
+    p.bizcaseright3 { padding-left:3px; padding-right:3px; padding-bottom:0px; padding-top:3px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; font-family:verdana, arial, geneva, sans-serif; font-size:12px; color:#000000;}
+
+    p.itemright { padding-left:16px; padding-right:0px; padding-bottom:0px; padding-top:8px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; font-family:verdana, arial, sans-serif; font-size:11px; color:#7294B4; font-weight:bold;}
+
+
+img.iconright { display:block; padding-left:3px; padding-top:0px; padding-right:0px;}
+   
+
+ul.activities {padding-left:16px; padding-right:0px; padding-bottom:0px; padding-top:8px; margin-left:16px; margin-top:0px; margin-right:0px; margin-bottom:0px;}
+
+
+table.icons { padding-top:5px;}
+   
+img.icon { display:inline; padding-left:0px; padding-top:0px; padding-right:0px; padding-bottom:0px; margin-left:8px; margin-top:12px; margin-right:0px; margin-bottom:0px;}
+
+img.dividerleft { display:inline; padding-left:3px; padding-top:3px;} 

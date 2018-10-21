@@ -1,0 +1,157 @@
+/* LastDelta: Jan.01.02011 (PJB) */
+
+A:link {
+	color: #1e38f6;
+	text-decoration: none;
+}
+
+A:active {
+	text-decoration: none;
+	color: blue;
+	background: transparent;
+}
+
+A:visited {
+	text-decoration: none;
+	color: #0098f8;
+	background: transparent;
+}
+
+A:hover {
+	text-decoration: underline;
+	color: #7c82f7;
+	background-color: #FFFFFF;
+}
+
+.bogieland_header {
+	margin-bottom: 16px;
+}
+.postcontents {
+	/*border: solid 1px red;*/
+	padding-right: 50px;
+}
+.postresources {
+	border: 1px solid #5e5e5e;
+	background-color: #eaeaea;
+	padding-left: 20px;
+	margin-left: 20px;
+	margin-right: 50px;
+	margin-bottom: 50px;
+}
+
+.postheader {
+	/*border: solid 1px red;*/
+}
+
+.preso {
+	margin: 20px;
+}
+
+#BLlogo {
+	/*border: solid 1px orange;*/
+	float: left;
+	margin-top: 10px;
+}
+
+#BLmotto {
+	/*border: solid 1px blue;*/
+	font: 28px Josefin Slab;
+	padding-left: 210px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+#BLmap {
+	/*border: solid 1px red;*/	
+	margin: 0;
+	padding: 0;
+}
+
+h1.posttitle {
+	/*border: solid 1px red;*/
+	font-family: Josefin Sans;
+	font-size: 30px;
+	font-variant: plain;
+	color: #00229D;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+	margin: 20px 0mm 15px;
+}
+
+h2.postsubtitle {
+	/*border: solid 1px blue;*/
+	padding: 0px 0px 0px 20px;
+	font-family: Josefin Sans;
+	font-size: 24px;
+	color: #000000;
+	font-weight: bold;
+	margin: 0px 0 15px 0px;
+}
+
+h2.postpartitle {
+	/*border: solid 1px red;*/
+	margin: 16px 0mm 5px;
+	padding: 0px 0px 0px 20px;
+	font-family: Josefin Sans;
+	font-size: 22px;
+	color: #000000;
+	font-weight: normal;
+}
+
+h2.resources {
+	/*border: solid 1px red;*/
+	margin: 0 0mm 0 0;
+	padding: 10px 0px;
+	font-family: Josefin Sans;
+	font-size: 24px;
+	color: #666666;
+}
+p.author {
+	/*border: solid 1px green;*/
+	padding: 0px 0px 0px 20px;
+	font-family: Josefin Sans;
+	font-size: 18px;
+	color: #666666;
+	padding: 0px 0px 0px 20px;
+	margin: 0 0mm 20px 0px;
+}
+
+p.postleader {
+	margin: 0px 0mm 10px 8px;
+	padding: 8px 10px;
+	font-family: Nobile, arial, serif;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 22px;
+	color: #000000;
+	background-color: #FFFFFF;
+}
+
+p.postpar {
+	/*border: solid 1px blue;*/
+	padding: 0px 20px 0;
+	color: #424242;
+	font: 14px/22px Nobile, arial, serif;
+	margin-top: 0px;
+	margin-left: 0;
+	margin-bottom: 20px;
+}
+
+ul.resources {
+	/*border: solid 1px blue;*/
+	margin: 0;
+	padding: 0;
+	color: #000000;
+	background-color: #eaeaea;
+	list-style-image: none;
+	list-style-type: none;
+}
+
+li.resource {
+	/*border: solid 1px green;*/
+	margin: 0 0 15px;
+	padding: 0;
+	font: 14px/22px Nobile, arial, serif;
+}
+

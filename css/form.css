@@ -1,0 +1,101 @@
+<!--STYLESHEET FORM VERSION-->
+<!--PJB Style sheet for form in bogieLand-->
+<!--LastDelta: Sept. 12, 2003-->
+<!--First init: Sept. 2001-->
+
+
+body {
+    padding-left:0mm;
+    padding-bottom:0mm;
+    padding-top:0mm;
+    padding-right:0mm;
+    margin-left:0mm;
+    margin-bottom:0mm;
+    margin-top:0mm;
+    margin-right:0mm;
+    }
+input.new{
+    padding-left:0mm;
+    padding-right:0mm;
+    padding-top:0mm;
+    padding-bottom:0mm;
+    margin-left:1mm;
+    margin-right:3mm;
+    margin-top:1mm;
+    margin-bottom:1mm;
+    font-family:verdana, geneva, arial, sans-serif;
+    font-size:11px;
+    color:#000000;
+    background-color:#FFFFFF;
+}
+input.knop{
+    padding-left:0mm;
+    padding-right:0mm;
+    padding-top:0mm;
+    padding-bottom:0mm;
+    margin-left:1mm;
+    margin-right:3mm;
+    margin-top:3mm;
+    margin-bottom:3mm;
+    font-family:verdana, geneva, arial, sans-serif;
+    font-size:11px;
+}
+p.formlabel{
+    padding-left:1mm;
+    padding-right:0mm;
+    padding-top:0mm;
+    padding-bottom:0mm;
+    margin-left:3mm;
+    margin-right:0mm;
+    margin-top:0mm;
+    margin-bottom:0mm;
+    font-family:verdana, geneva, arial, sans-serif;
+    font-size:11px;
+    color:#000000;
+    background-color:#5E9EB7;
+    font-weight:bold;
+}
+p.formtext{
+    padding-left:0mm;
+    padding-right:0mm;
+    padding-top:0mm;
+    padding-bottom:0mm;
+    margin-left:3mm;
+    margin-right:0mm;
+    margin-top:1mm;
+    margin-bottom:1mm;
+    font-family:verdana, geneva, arial, sans-serif;
+    font-size:11px;
+    font-weight:normal;
+    color:#000000;
+    background-color:#5E9EB7;
+}
+p.formtitle{
+    padding-left:0mm;
+    padding-right:0mm;
+    padding-top:0mm;
+    padding-bottom:0mm;
+    margin-left:3mm;
+    margin-right:3mm;
+    margin-top:1mm;
+    margin-bottom:1mm;
+    font-family:verdana, geneva, arial, sans-serif;
+    font-size:12px;
+    font-weight:bold;
+    color:#FFFFFF;
+    background-color:#000066;
+}
+table.form{
+    padding-left:0mm;
+    padding-bottom:6mm;
+    padding-top:0mm;
+    padding-right:0mm;
+    margin-left:3mm;
+    margin-bottom:6mm;
+    margin-top:5mm;
+    margin-right:0mm;
+    color:#000000;
+    background-color:#6699C;
+    }
+
+

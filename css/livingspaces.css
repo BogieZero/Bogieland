@@ -1,0 +1,41 @@
+/* BaseStyleSheet of InfoDesign 2 - version 0025
+Last Delta: Jan.20.02004 - PJB */
+
+A:link {color:#000000; text-decoration:none;}
+A:active{text-decoration:none; color:#000000;background:transparent;}
+A:visited{text-decoration:none; color:#6C3A09;background:transparent;}
+A:hover{text-decoration:underline; color:#000000; background:#FFFFFF; }
+
+body{padding-left:0px; padding-right:0px; padding-bottom:0px; padding-top:0px; margin-left:24px; margin-top:24px; margin-right:0mm; margin-bottom:0px; font-family:verdana, arial, sans-serif; font-size:12px; font-weight:normal;
+}
+
+h1 {padding-left:0px; padding-right:16px; padding-bottom:0px; padding-top:0px; margin-left:0mm; margin-top:16px; margin-right:0mm; margin-bottom:8px; font-family:verdana, arial, geneva, sans-serif; font-size:16px; font-variant:plain; color:#006695;}
+
+h1.doctitle{ display:block; letter-spacing:2pt; text-align:right; font-size:26pt; font-family: Arial,sans-serif; color:#FFFFFF; background-color:#003366; text-indent:0mm; padding-top:5mm; padding-right: 16px; padding-left:0px; padding-bottom:16px; margin-left: 0px; margin-top:0px; margin-right:0px; margin-bottom:0px; }
+
+
+h1.subdoctitle{ display:block; font-size:18pt; font-family: Arial,sans-serif; color:#FFFFFF; background-color:#000000; text-indent:0mm; text-align:right; padding-top:8px; padding-right:16px; padding-left:8px; padding-bottom:8px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; }
+
+h2 {padding-top:0px; padding-bottom:0x; padding-left:0px; padding-right:0px; margin-top:8px; margin-bottom:8px; margin-left:0px; margin-right:0px; color:#691500; background-color:#FFFFFF; font-weight:bold; font-size:14px;}
+
+h3 {padding-top:0px; padding-bottom:0x; padding-left:0px; padding-right:0px; margin-top:8px; margin-bottom:0px; margin-left:0px; margin-right:0px; color:#000000; background-color:#FFFFFF; font-weight:bold; font-size:12px;}
+
+.intro {padding-top:16px; padding-bottom:0x; padding-left:0px; padding-right:0px; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; font-weight:bold;}
+
+p {padding-left:0px; padding-right:0px; padding-bottom:8px; padding-top:0px; margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; color:#333333; line-height:16px;}
+
+p.footer {padding-top:24px; font-size:11px;}
+
+p.next {padding-left:500px;}
+
+ol {padding-left:0px; padding-top:0px; padding-bottom:0px; padding-right:0px; margin-left:16px; margin-right:0px; margin-top:0px; margin-bottom:0px; font-family:verdana, arial, sans-serif; font-size:12px; color:#333333;}
+
+ul {padding-left:0px; padding-top:0px; padding-bottom:0px; padding-right:0px; margin-left:16px; margin-right:0px; margin-top:0px; margin-bottom:0px; font-family:verdana, arial, sans-serif; font-size:12px; color:#333333;}
+
+ul.glossary {padding-left:0px; padding-top:0px; padding-bottom:0px; padding-right:0px; margin-left:16px; margin-right:0px; margin-top:16px; margin-bottom:0px;}
+
+ul.contents {padding-left:0px; padding-top:16px; padding-bottom:0px; padding-right:0px; margin-left:0px; margin-right:0px; margin-top:0px; margin-bottom:0px; font-family:verdana, arial, sans-serif; font-size:12px; color:#333333; list-style:none;}
+
+li.content_item {padding-left:0px; padding-right:0px; padding-bottom:8px; padding-top:0px; margin-left:0px; margin-top:0px; margin-bottom:0px; margin-right:0px; line-height:16px;} 
+
+li {padding-left:0mm; padding-right:0em; padding-bottom:8px; padding-top:0mm; margin-left:0mm; margin-top:0mm; margin-bottom:0mm; margin-right:0mm; line-height:16px;} 
